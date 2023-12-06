@@ -1,0 +1,13 @@
+package org.adaschool.miprimeraconexionh2;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MiPrimeraConexionH2Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MiPrimeraConexionH2Application.class, args);
+	}
+
+}
